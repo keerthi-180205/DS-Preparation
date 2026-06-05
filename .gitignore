@@ -1,10 +1,11 @@
 # Datasets folder
-datasets/
+Datasets/
 
 # Jupyter notebook checkpoints
 .ipynb_checkpoints/
 
 # Specific CSV files
 kohli.csv
+kohli_ipl.csv
 bollywood.csv
 subs.csv
